@@ -4,15 +4,15 @@ Arrays	Maximum and Minimum Element in an Array
 
 Arrays	Reverse the Array
 
-Arrays	Maximum-Subarray
+Arrays	Maximum-Subarray        https://leetcode.com/problems/maximum-subarray/   
 
-Arrays	Contains Duplicate
+Arrays	Contains Duplicate      https://leetcode.com/problems/contains-duplicate/
 
-Arrays	Chocolate Distribution Problem
+Arrays	Chocolate Distribution Problem   https://www.geeksforgeeks.org/chocolate-distribution-problem/
 
-Arrays	Search in Rotated Sorted Array
+Arrays	Search in Rotated Sorted Array   https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
-Arrays	Next Permutation
+Arrays	Next Permutation           https://leetcode.com/problems/next-permutation/description/
 
 Arrays	Best time to Buy and Sell Stock
 

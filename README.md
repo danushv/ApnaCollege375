@@ -14,15 +14,15 @@ Arrays	Search in Rotated Sorted Array   https://leetcode.com/problems/search-in-
 
 Arrays	Next Permutation           https://leetcode.com/problems/next-permutation/description/
 
-Arrays	Best time to Buy and Sell Stock
+Arrays	Best time to Buy and Sell Stock    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
-Arrays	Repeat and Missing Number Array
+Arrays	Repeat and Missing Number Array    https://www.interviewbit.com/problems/repeat-and-missing-number-array/submissions/
 
-Arrays	Kth-Largest Element in an Array
+Arrays	Kth-Largest Element in an Array  https://leetcode.com/problems/kth-largest-element-in-an-array/description/
 
-Arrays	Trapping Rain Water
+Arrays	Trapping Rain Water              https://leetcode.com/problems/trapping-rain-water/description/
 
-Arrays	Product of Array Except Self
+Arrays	Product of Array Except Self    https://leetcode.com/problems/product-of-array-except-self/description/
 
 Arrays	Maximum Product Subarray
 

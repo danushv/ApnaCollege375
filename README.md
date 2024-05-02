@@ -24,13 +24,13 @@ Arrays	Trapping Rain Water              https://leetcode.com/problems/trapping-r
 
 Arrays	Product of Array Except Self    https://leetcode.com/problems/product-of-array-except-self/description/
 
-Arrays	Maximum Product Subarray
+Arrays	Maximum Product Subarray    https://leetcode.com/problems/maximum-product-subarray/submissions/1246854292/
 
-Arrays	Find Minimum in Rotated Sorted Array
+Arrays	Find Minimum in Rotated Sorted Array   https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
-Arrays	Find Pair with Sum in Sorted & Rotated Array
+Arrays	Find Pair with Sum in Sorted & Rotated Array  https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp#
 
-Arrays	3Sum
+Arrays	3Sum   
 
 Arrays	Container With Most Water
 
